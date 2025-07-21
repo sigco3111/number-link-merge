@@ -1,0 +1,6 @@
+{
+  "name": "넘버링크(Number Merge)",
+  "description": "블록을 떨어뜨려 같은 숫자를 합치는 중독성 강한 퍼즐 게임입니다. 2048과 테트리스에서 영감을 받아, 전략적 깊이와 화려한 시각 효과를 더했습니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
