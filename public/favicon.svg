@@ -1,1 +1,30 @@
- 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>넘버 머지(Number Merge) 파비콘</title>
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#6366F1"/>
+            <stop offset="100%" style="stop-color:#8B5CF6"/>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <!-- 배경 -->
+        <rect fill="url(#gradient)" x="0" y="0" width="32" height="32" rx="6"></rect>
+        
+        <!-- 왼쪽 블록 (숫자 2) -->
+        <rect fill="#111827" opacity="0.9" x="4" y="8" width="10" height="10" rx="2"></rect>
+        <text font-family="Rajdhani, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" x="7.5" y="16" text-anchor="middle">2</text>
+        
+        <!-- 오른쪽 블록 (숫자 2) -->
+        <rect fill="#111827" opacity="0.9" x="18" y="8" width="10" height="10" rx="2"></rect>
+        <text font-family="Rajdhani, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" x="21.5" y="16" text-anchor="middle">2</text>
+        
+        <!-- 아래쪽 블록 (숫자 4) -->
+        <rect fill="#111827" opacity="0.9" x="11" y="16" width="10" height="10" rx="2"></rect>
+        <text font-family="Rajdhani, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" x="16" y="24" text-anchor="middle">4</text>
+        
+        <!-- 합쳐지는 화살표 -->
+        <path d="M13,12 L19,12" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+        <path d="M16,14 L16,18" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+    </g>
+</svg> 
