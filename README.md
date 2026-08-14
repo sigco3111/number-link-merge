@@ -2,9 +2,9 @@
 
 플레이어가 번호가 적힌 블록을 떨어뜨려 더 높은 숫자로 합치는, 매력적이고 시각적으로 아름다운 퍼즐 게임입니다. 이 게임은 2048과 테트리스 같은 고전 게임의 전략적 요소와 현대적이고 애니메이션이 가미된 반응형 인터페이스를 결합했습니다.
 
-실행주소1 : https://sigco3111.github.io/number-link-merge/
+라이브 데모 : https://sigco3111.github.io/number-link-merge/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 GitHub Pages로 이관되었습니다 (2026-08). 과거 Vercel alias는 더 이상 유효하지 않으므로 위 Pages URL을 사용해 주세요.
 
 ## ✨ 특징
 
